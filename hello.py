@@ -1,4 +1,3 @@
 print("Welcome")
-print("hello")
 
 
